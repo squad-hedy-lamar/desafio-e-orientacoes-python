@@ -1,1 +1,0 @@
-# desafio-e-orientacoes-python
